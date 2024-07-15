@@ -1,11 +1,11 @@
 ---
 marp: true
-theme: default
+theme: gaia
 paginate: true
 ---
 
 # Git for Python Developers
-## Trainer Name: Shaounak
+## Trainer Name: Shaounak Nasikkar
 
 ---
 
@@ -57,15 +57,15 @@ paginate: true
 
 ## Pushing and Pulling
 
-git push origin main: Uploads your commits to the "main" branch on the remote repository named "origin" (replace "main" with the actual branch name)
-git pull origin main: Downloads changes from the "main" branch on the remote repository named "origin" and merges them into your local branch
+`git push origin main`: Uploads your commits to the "main" branch on the remote repository named "origin" (replace "main" with the actual branch name)
+`git pull origin main`: Downloads changes from the "main" branch on the remote repository named "origin" and merges them into your local branch
 
 ---
 
 ## Undoing Changes
-git checkout .: Discards uncommitted changes in the working directory
-git stash: Temporarily stores uncommitted changes
-git stash pop: Applies the most recent stashed changes
+`git checkout .`: Discards uncommitted changes in the working directory
+`git stash`: Temporarily stores uncommitted changes
+`git stash pop`: Applies the most recent stashed changes
 
 ---
 

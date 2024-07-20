@@ -24,6 +24,7 @@ paginate: true
 **Collaboration**: Work with others seamlessly
 **Backup**: Restore files in case of mistakes
 **Versioning**: Experiment without fear of breaking things
+**Secure**: Secure the code.
 
 ---
 

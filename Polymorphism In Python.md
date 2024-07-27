@@ -13,11 +13,13 @@ paginate: true
 ## Introduction
 
 ### What is Polymorphism?
+
   * Ability of objects to respond differently to the same method call
   * Core concept in object-oriented programming (OOP)
   * Enables flexible and reusable code
 
 ### Benefits of Polymorphism
+
   * Cleaner code structure
   * Reduced code duplication
   * Improved maintainability
